@@ -18,10 +18,18 @@ h1 {
 h2 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 30px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    background-color: chartreuse;
 }
 h3 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    background-color: rgb(255, 0, 200);
 }
 p {
     font-family: 'Courier New', Courier, monospace;
@@ -32,15 +40,6 @@ p {
     background-color: aquamarine;
 
 }
-
-
-
-
-
-
-
-
-
 
 </style>
 
