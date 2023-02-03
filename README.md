@@ -1,5 +1,5 @@
 # PoP
-This is the big first project for the front end class. Jake Seekins
+This is the big first project for the front-end class. Jake Seekins
 
 <!DOCTYPE html>
 <html lang="en">
@@ -40,7 +40,14 @@ p {
     background-color: aquamarine;
 
 }
-
+a {
+    font-family: 'Courier New', Courier, monospace;
+padding: 5px;
+background-color: rgb(203, 83, 255);
+border: 5px;
+border-color: black;
+border-style: double;
+}
 </style>
 
 
