@@ -55,7 +55,7 @@ body{
   nav ul li a {
     display: block;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 22px;
+    font-size: 25px;
     color: rgb(255, 196, 0);
     padding: 5px 20px;
     text-decoration: none;
@@ -65,7 +65,7 @@ body{
     display: none;
    position: absolute;
    background-color: rgb(70, 70, 70);
-   padding: 10px;
+   padding: 20px;
    border-radius: 0px 0px 4px 4px;
   }
 
@@ -102,30 +102,32 @@ h1 {
 h2 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 35px;
-    border-style: solid;
-    border-color: black;
-    padding: 5px;
-    background-color: rgb(154, 253, 55);
-    margin-left: 40%;
-    margin-right: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
     text-align: center;
+    padding: 5px;
+    border-color: black;
+    border-style: solid;
+    background-color: rgb(154, 253, 55);
+   
     
 }
 h3 {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
-    border-style: solid;
-    border-color: black;
-    padding: 10px;
-    background-color: rgb(255, 112, 224);
-    margin-left: 45%;
-    margin-right: 45%;
+    font-size: 25px;
+    margin-left: 40%;
+    margin-right: 40%;
     text-align: center;
+    padding: 5px;
+    border-color: black;
+    border-style: solid;
+    background-color: rgb(255, 112, 224);
+  
     
 }
 p {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
+    font-size: 17px;
     border-style: ridge;
     border-color: black;
     padding: 10px;
@@ -143,7 +145,7 @@ align-items: center;
 }
 img {
   display: block;
-  width: 30%;
+  width: 20%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -168,14 +170,16 @@ img {
 <img src = "Photos for PoP/Marilyn Monroe.jpg">
 
 <h3>Roy Lichtenstein</h3>
-<img src = "Photos for PoP/Andy Warhol.jpg">
+<img src = "Photos for PoP/Roy Lichtenstein.jpg">
 <p>Personally this man is my favorite out of all of these artists. The way he made his works are so loveley and beautiful. All of his works use the comic strip apeal that you would look back and see how many parts of the art have just no real blended colors. Every part may have a black outline or just pop out next to an oppposing color. One of his most infamous pieces would be the piece called "In the Car".</p> 
 <img src = "Photos for PoP/In the Car.jpg">
 
 <h3>James Rosenquist</h3>
-
+<img src = "Photos for PoP/James Rosenquist.jpg">
+<p>James Rosenquist was one of the founders for the Pop Art movement. Now while he might be a little more obscure to those who know little to nothing of this movement. His artworks were some of the best to ever be constructed. I use the word constructed because, while he did not make sculptures he made such wonderful collages in all sorts of mediums.Wether it was painting, drawing or a mix of other materials many of his collages had a message behind them. His most notable by far his his work called "F-11".</p>
+<img src = "Photos for PoP/F-11.jpg">
 <h2>Pop Art Across the World</h2>
-<p>Pop Art was not only taking place in America, but also in paces such as Britan.</p>
+<p>Pop Art was not only taking place in America, but also in paces such as Britan. Pop Art began years ahead in Britian before in the United States. The goal of this movement was to not make art as entitled. Much of their inspirations in the early stages came from the U.S., however the art made in Britain varied from what makers in the U.S. had because, while the United States they made work from what they saw in their day to day the british were seeing the same items, but able to make art from a different perspective.</p>
 
 <h2>Effects of the Movement</h2>
 <p>Many of the things seen today can be traced back to this movement.</p>
