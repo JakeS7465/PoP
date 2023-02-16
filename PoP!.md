@@ -17,9 +17,9 @@ This is the big first project for the front-end class. Jake Seekins
         <li><a href="PoP!.html">Pop!</a></li>
         <li><a href="#"><i class="fa fa-bars"></i></a>
         <ul>
-            <li><a href="#">Refrences</a></li>
-            <li><a href="#">History</a></li>
-            <li><a href="#">Artists</a></li>
+            <li><a href="Refrences.html">Refrences</a></li>
+            <li><a href="History.html">History</a></li>
+            <li><a href="Artists.html">Artists</a></li>
         </ul>
         </li>
     </ul>
@@ -91,22 +91,24 @@ body{
 h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 50px;
+    border-bottom: 10px;
     margin-left: 35%;
     margin-right: 35%;
     text-align: center;
     padding: 5px;
-    border-color: black;
+    border-color: rgb(100, 0, 122);
     border-style: solid;
     background-color: rgb(216, 130, 253);;
 }
 h2 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 35px;
+    border-bottom: 10px;
     margin-left: 30%;
     margin-right: 30%;
     text-align: center;
     padding: 5px;
-    border-color: black;
+    border-color: rgb(8, 127, 0);
     border-style: solid;
     background-color: rgb(154, 253, 55);
    
@@ -115,11 +117,12 @@ h2 {
 h3 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
+    border-bottom: 10px;
     margin-left: 40%;
     margin-right: 40%;
     text-align: center;
     padding: 5px;
-    border-color: black;
+    border-color: rgb(137, 0, 107);
     border-style: solid;
     background-color: rgb(255, 112, 224);
   
@@ -128,8 +131,9 @@ h3 {
 p {
     font-family: 'Courier New', Courier, monospace;
     font-size: 17px;
+    border-bottom: 10px;
     border-style: ridge;
-    border-color: black;
+    border-color: rgb(9, 171, 152);
     padding: 10px;
     background-color: rgb(160, 255, 223);
     font-style: bold;
@@ -148,6 +152,8 @@ img {
   width: 20%;
   margin-left: auto;
   margin-right: auto;
+  border-style: dashed;
+  border-color: gold;
 }
 </style>
 </head>    
@@ -158,7 +164,7 @@ img {
 <img src= "Photos for PoP/Campbelle's Soup.jpg">
 <!-- need more images -->
 
-<p>Pop art was something that took the art world and culture itself by storm. Many of the works from this period caused a large backlash in the American culture. Much of this art was very bright and not hard to miss. All of the subjects did elude to something or another on many different occansions, but there were also some pieces that just showed off how great this movement was and how it differed from the tradditional side of art.</p>
+<p>Pop Art was a movement that sparked many discussions as to what could necessarily be considered art. Up until this point most of the art produced was many still life and higher-class pieces that revolved around a certain lifestyle there was nothing that could truly relate to the average person. When Pop Art came along all of that changed though. Many of the works made in places such as Britain and the United States became about the average person. Many works were about what you would see in the day-to-day and what popular culture looked like at the time. This newfound movement in the art world caused a big commotion and many were saying that it was a disgusting way to make art. But with decades passing since the movement’s first years, many would say that this Pop Art changed the future. </p>
 
 <h2>Important Figures</h2>
 
@@ -178,12 +184,14 @@ img {
 <img src = "Photos for PoP/James Rosenquist.jpg">
 <p>James Rosenquist was one of the founders for the Pop Art movement. Now while he might be a little more obscure to those who know little to nothing of this movement. His artworks were some of the best to ever be constructed. I use the word constructed because, while he did not make sculptures he made such wonderful collages in all sorts of mediums.Wether it was painting, drawing or a mix of other materials many of his collages had a message behind them. His most notable by far his his work called "F-11".</p>
 <img src = "Photos for PoP/F-11.jpg">
-<h2>Pop Art Across the World</h2>
-<p>Pop Art was not only taking place in America, but also in paces such as Britan. Pop Art began years ahead in Britian before in the United States. The goal of this movement was to not make art as entitled. Much of their inspirations in the early stages came from the U.S., however the art made in Britain varied from what makers in the U.S. had because, while the United States they made work from what they saw in their day to day the british were seeing the same items, but able to make art from a different perspective.</p>
 
-<h2>Effects of the Movement</h2>
-<p>Many of the things seen today can be traced back to this movement.</p>
+<h2>Pop Art Across the World</h2>
+<p>While Pop Art did occur in the United States it was also picked up in Britain. Their reason was to disrupt the common belief of what art was. Many leaders in that movement sought to change it and make something that could not be guarded by the elite. They looked to America to see what was happening over there and were able to gain a new perspective that the Pop artists of the US could not they made works that saw the average life of perhaps the middle class and were able to make a piece on the same topic with a different outcome. As years moved on and popular culture in Britain moved forward they looked less outside the country and made more about what they started to see around them. </p>
+
+<h2>After the Movement</h2>
+<p>Looking back on the movement today many people can say that it might have been one of the best movements. That the people back then were out of their minds for thinking that this could have ever been bad, but how would they have known? The subjects and the way these artworks turned out and they were very different from what they were used to seeing. Either way, Pop Art is a movement that created the way that we see most things today. Those bright colors and subjects that you would see on billboards or in the paper are still around today we can see that kind of style on the products we buy or on our phones. Pop Art did die in the early ’70s, but it became neo-pop in the ’80s. Even then you can still see in that decade that the original influences of the first movement were there. Overall Pop Art is something that did what it set out to do and change the way people thought of art. </p>
 <!-- ideas to think about for topic -->
+
 </body>
 
 </html>
