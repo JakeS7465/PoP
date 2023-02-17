@@ -147,6 +147,7 @@ padding: 5px;
 align-items: center;
     text-align: center;
 }
+
 img {
   display: block;
   width: 20%;
@@ -175,17 +176,17 @@ img {
 <p>Now Andy Warhol is I would say the most well known of these artists listed. It is with great reason that he is though. His art is the most recognizable and goes into subjects such as his collection on consumerism or the tragedies of america. His works oat first glance would give anyone so much to look at with all of their colors, but they have deeper meanings. Andy Warhol is most known for his silk screen works such as the one he made of "Marilyn Monroe".</p>
 <img src = "Photos for PoP/Marilyn Monroe.jpg">
 
-<h3>Roy Lichtenstein</h3>
+<h3>Roy Lichtenstein</h3> <!-- find more pictures of his work, maybe the plane one -->
 <img src = "Photos for PoP/Roy Lichtenstein.jpg">
-<p>Personally this man is my favorite out of all of these artists. The way he made his works are so loveley and beautiful. All of his works use the comic strip apeal that you would look back and see how many parts of the art have just no real blended colors. Every part may have a black outline or just pop out next to an oppposing color. One of his most infamous pieces would be the piece called "In the Car".</p> 
+<p>All of his works use the comic strip apeal that you would look back and see how many parts of the art have just no real blended colors. Every part may have a black outline or just pop out next to an oppposing color. One of his most infamous pieces would be the piece called "In the Car".</p> 
 <img src = "Photos for PoP/In the Car.jpg">
-
+<!-- dont talk about roy from a peronal view -->
 <h3>James Rosenquist</h3>
 <img src = "Photos for PoP/James Rosenquist.jpg">
 <p>James Rosenquist was one of the founders for the Pop Art movement. Now while he might be a little more obscure to those who know little to nothing of this movement. His artworks were some of the best to ever be constructed. I use the word constructed because, while he did not make sculptures he made such wonderful collages in all sorts of mediums.Wether it was painting, drawing or a mix of other materials many of his collages had a message behind them. His most notable by far his his work called "F-11".</p>
 <img src = "Photos for PoP/F-11.jpg">
 
-<h2>Pop Art Across the World</h2>
+<h2>Pop Art Across the World</h2> <!-- look at websites on britain's pop movement -->
 <p>While Pop Art did occur in the United States it was also picked up in Britain. Their reason was to disrupt the common belief of what art was. Many leaders in that movement sought to change it and make something that could not be guarded by the elite. They looked to America to see what was happening over there and were able to gain a new perspective that the Pop artists of the US could not they made works that saw the average life of perhaps the middle class and were able to make a piece on the same topic with a different outcome. As years moved on and popular culture in Britain moved forward they looked less outside the country and made more about what they started to see around them. </p>
 
 <h2>After the Movement</h2>

@@ -160,6 +160,8 @@ img {
 
 
   <body>
+    <!-- find what you can on these photos -->
+    <!-- name of maker, date or at least year, title, and medium -->
 <h3>Campbell's Soup Cans</h3>
 <img src="Photos for PoP/Campbelle's Soup.jpg">
 <p>Andy Warhol
@@ -196,6 +198,7 @@ img {
   1982
 (Painting)
 </p>
+<!-- the photos for the artists do not have anywhere that they give credit to photographer or at least have a date -->
 <h3>Andy Warhol</h3>
 <img src="Photos for PoP/Andy Warhol.jpg">
 <p>Greg Gorman

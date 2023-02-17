@@ -159,6 +159,7 @@ img {
 
 
 <body>
+  <!-- do not need to be extremley detailed -->
     <h3>Andy Warhol</h3> 
 <img src = "Photos for PoP/Andy Warhol.jpg">
 <p>Now Andy Warhol is I would say the most well known of these artists listed. It is with great reason that he is though. His art is the most recognizable and goes into subjects such as his collection on consumerism or the tragedies of america. His works oat first glance would give anyone so much to look at with all of their colors, but they have deeper meanings. Andy Warhol is most known for his silk screen works such as the one he made of "Marilyn Monroe".</p>
@@ -166,13 +167,14 @@ img {
 
 <h3>Roy Lichtenstein</h3>
 <img src = "Photos for PoP/Roy Lichtenstein.jpg">
-<p>Personally this man is my favorite out of all of these artists. The way he made his works are so loveley and beautiful. All of his works use the comic strip apeal that you would look back and see how many parts of the art have just no real blended colors. Every part may have a black outline or just pop out next to an oppposing color. One of his most infamous pieces would be the piece called "In the Car".</p> 
+<p> All of his works use the comic strip apeal that you would look back and see how many parts of the art have just no real blended colors. Every part may have a black outline or just pop out next to an oppposing color. One of his most infamous pieces would be the piece called "In the Car".</p> 
 <img src = "Photos for PoP/In the Car.jpg">
-
+<!-- dont talk about roy from a peronal view -->
 <h3>James Rosenquist</h3>
 <img src = "Photos for PoP/James Rosenquist.jpg">
 <p>James Rosenquist was one of the founders for the Pop Art movement. Now while he might be a little more obscure to those who know little to nothing of this movement. His artworks were some of the best to ever be constructed. I use the word constructed because, while he did not make sculptures he made such wonderful collages in all sorts of mediums.Wether it was painting, drawing or a mix of other materials many of his collages had a message behind them. His most notable by far his his work called "F-11".</p>
 <img src = "Photos for PoP/F-11.jpg">
+<!-- need to add more space under this photo -->
 <h2>hjhjhj</h2>
 
 
